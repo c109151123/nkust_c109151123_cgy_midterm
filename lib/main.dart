@@ -338,7 +338,7 @@ class screen4 extends StatelessWidget {
                     Text('4.檢查時程'),
                     Text('5.建立WBS'),
                     Text('6.切分成小步驟'),
-                    Text('7.制定一個計劃草案'),
+                    Text('7.呂家佑到此一遊'),
                   ],
                 ),
               ),
